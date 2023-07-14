@@ -1,2 +1,3 @@
-# .github
-Vox-machina organisation README
+# Vox Machina
+
+The organisation repo for vox-machina
